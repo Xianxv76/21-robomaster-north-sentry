@@ -1,0 +1,10 @@
+.\objects\kalman_filter.o: ..\HARDWARE\kalman\kalman_filter.c
+.\objects\kalman_filter.o: ..\HARDWARE\kalman\kalman_filter.h
+.\objects\kalman_filter.o: ..\HARDWARE\kalman\arm_math.h
+.\objects\kalman_filter.o: ..\CORE\core_cm4.h
+.\objects\kalman_filter.o: E:\keil\arm\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\kalman_filter.o: ..\CORE\core_cmInstr.h
+.\objects\kalman_filter.o: ..\CORE\core_cmFunc.h
+.\objects\kalman_filter.o: ..\CORE\core_cm4_simd.h
+.\objects\kalman_filter.o: E:\keil\arm\ARM\ARMCC\Bin\..\include\string.h
+.\objects\kalman_filter.o: E:\keil\arm\ARM\ARMCC\Bin\..\include\math.h
